@@ -1,229 +1,263 @@
 ```
+CARD_GER_BACK = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_back.jpg
+CARD_GER_FOG = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_fog.jpg
+CARD_GER_GUNNER_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_a1.jpg
+CARD_GER_GUNNER_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_a2.jpg
+CARD_GER_GUNNER_A3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_a3.jpg
+CARD_GER_GUNNER_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_b1.jpg
+CARD_GER_GUNNER_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_b2.jpg
+CARD_GER_GUNNER_B3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_b3.jpg
+CARD_GER_GUNNER_C1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_c1.jpg
+CARD_GER_GUNNER_C2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_c2.jpg
+CARD_GER_GUNNER_C3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_c3.jpg
+CARD_GER_MORTAR_1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_mortar_1.jpg
+CARD_GER_MORTAR_2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_mortar_2.jpg
+CARD_GER_MORTAR_3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_mortar_3.jpg
+CARD_GER_PLATOONGUIDE = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_platoonguide.jpg
+CARD_GER_PLATOONSERGEANT = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_platoonsergeant.jpg
+CARD_GER_RIFLEMAN_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a1.jpg
+CARD_GER_RIFLEMAN_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a2.jpg
+CARD_GER_RIFLEMAN_A3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a3.jpg
+CARD_GER_RIFLEMAN_A4 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a4.jpg
+CARD_GER_RIFLEMAN_A5 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a5.jpg
+CARD_GER_RIFLEMAN_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b1.jpg
+CARD_GER_RIFLEMAN_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b2.jpg
+CARD_GER_RIFLEMAN_B3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b3.jpg
+CARD_GER_RIFLEMAN_B4 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b4.jpg
+CARD_GER_RIFLEMAN_B5 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b5.jpg
+CARD_GER_RIFLEMAN_C1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c1.jpg
+CARD_GER_RIFLEMAN_C2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c2.jpg
+CARD_GER_RIFLEMAN_C3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c3.jpg
+CARD_GER_RIFLEMAN_C4 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c4.jpg
+CARD_GER_RIFLEMAN_C5 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c5.jpg
+CARD_GER_SCOUT_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_a1.jpg
+CARD_GER_SCOUT_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_a2.jpg
+CARD_GER_SCOUT_A3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_a3.jpg
+CARD_GER_SCOUT_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_b1.jpg
+CARD_GER_SCOUT_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_b2.jpg
+CARD_GER_SCOUT_B3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_b3.jpg
+CARD_GER_SCOUT_C1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_c1.jpg
+CARD_GER_SCOUT_C2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_c2.jpg
+CARD_GER_SCOUT_C3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_c3.jpg
+CARD_GER_SNIPER_1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_sniper_1.jpg
+CARD_GER_SNIPER_2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_sniper_2.jpg
+CARD_GER_SNIPER_3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_sniper_3.jpg
+CARD_GER_SQUADLEADER_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_squadleader_a.jpg
+CARD_GER_SQUADLEADER_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_squadleader_b.jpg
+CARD_GER_SQUADLEADER_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_squadleader_c.jpg
+CARD_GER_EXP_PANTHER_1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panther_1.jpg
+CARD_GER_EXP_PANTHER_2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panther_2.jpg
+CARD_GER_EXP_PANTHER_3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panther_3.jpg
+CARD_GER_EXP_PANZER_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panzer_a1.jpg
+CARD_GER_EXP_PANZER_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panzer_a2.jpg
+CARD_GER_EXP_PANZER_A3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panzer_a3.jpg
+CARD_GER_EXP_PANZER_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panzer_b1.jpg
+CARD_GER_EXP_PANZER_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panzer_b2.jpg
+CARD_GER_EXP_PANZER_B3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_panzer_b3.jpg
+CARD_GER_EXP_SPECIAL_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_special_a1.jpg
+CARD_GER_EXP_SPECIAL_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_special_a2.jpg
+CARD_GER_EXP_SPECIAL_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_special_b1.jpg
+CARD_GER_EXP_SPECIAL_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_special_b2.jpg
+CARD_GER_EXP_SPECIAL_C1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_special_c1.jpg
+CARD_GER_EXP_SPECIAL_C2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_special_c2.jpg
+CARD_GER_EXP_TANK_COMMANDER = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger-exp_tank-commander.jpg
 
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/bg.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_back.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_fog.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_a1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_a2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_a3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_b1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_b2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_b3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_c1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_c2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_gunner_c3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_mortar_1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_mortar_2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_mortart_3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_platoonguide.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_platoonsergeant.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a4.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_a5.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b4.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_b5.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c4.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_rifleman_c5.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_a1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_a2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_a3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_b1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_b2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_b3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_c1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_c2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_scout_c3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_sniper_1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_sniper_2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_sniper_3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_squadleader_a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_squadleader_b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_ger_squadleader_c.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_back.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_fog.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_a1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_a2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_a3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_b1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_b2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_b3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_c1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_c2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_c3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_mortar_1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_mortar_2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_mortar_3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_platoonguide.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_platoonsergeant.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a4.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a5.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b4.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b5.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c4.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c5.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_a1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_a2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_a3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_b1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_b2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_b3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_c1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_c2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_c3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_sniper_1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_sniper_2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_sniper_3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_squadleader_a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_squadleader_b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_squadleader_c.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_control.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_mortar.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_scouted.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_a.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_ab.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_abc.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_all.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_b.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_c.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_mortar.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_sniper.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_snipermortar.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_initiative_ger.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_initiative_usa.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_radio.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_control.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_mortar.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_scouted.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_a.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_all.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_b.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_c.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_sniper.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_snipermortar.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_vp_1.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_vp_2.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_vp_3.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_1.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_10.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_2.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_3.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_4.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_5.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_6.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_7.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_8.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/die_9.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_10a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_10b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_11a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_11b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_12a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_12b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13a_rot1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13a_rot2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13a_rot3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14a_rot1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14a_rot2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14a_rot3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15a_rot1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15a_rot2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15a_rot3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_16a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_16b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17a_rot1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17a_rot2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17a_rot3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18a_rot1.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18a_rot2.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18a_rot3.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_1a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_1b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_2a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_2b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_3a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_3b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_4a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_4b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_5a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_5b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_6a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_6b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_7a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_7b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_8a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_8b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_9a.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_9b.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_back.jpg
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_a_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_a.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_b_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_b.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_c_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_c.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_mortar_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_mortar.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_a_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_a.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_b_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_b.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_c_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_c.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_a_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_a.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_b_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_b.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_c_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_c.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_snipers_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_snipers.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_a_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_a.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_b_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_b.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_c_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_c.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_mortar_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_mortar.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_a_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_a.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_b_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_b.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_c_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_c.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_a_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_a.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_b_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_b.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_c_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_c.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_sniper_suppressed.png
-https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_snipers.png
+CARD_USA_BACK = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_back.jpg
+CARD_USA_FOG = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_fog.jpg
+CARD_USA_GUNNER_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_a1.jpg
+CARD_USA_GUNNER_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_a2.jpg
+CARD_USA_GUNNER_A3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_a3.jpg
+CARD_USA_GUNNER_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_b1.jpg
+CARD_USA_GUNNER_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_b2.jpg
+CARD_USA_GUNNER_B3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_b3.jpg
+CARD_USA_GUNNER_C1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_c1.jpg
+CARD_USA_GUNNER_C2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_c2.jpg
+CARD_USA_GUNNER_C3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_gunner_c3.jpg
+CARD_USA_MORTAR_1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_mortar_1.jpg
+CARD_USA_MORTAR_2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_mortar_2.jpg
+CARD_USA_MORTAR_3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_mortar_3.jpg
+CARD_USA_PLATOONGUIDE = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_platoonguide.jpg
+CARD_USA_PLATOONSERGEANT = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_platoonsergeant.jpg
+CARD_USA_RIFLEMAN_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a1.jpg
+CARD_USA_RIFLEMAN_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a2.jpg
+CARD_USA_RIFLEMAN_A3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a3.jpg
+CARD_USA_RIFLEMAN_A4 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a4.jpg
+CARD_USA_RIFLEMAN_A5 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_a5.jpg
+CARD_USA_RIFLEMAN_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b1.jpg
+CARD_USA_RIFLEMAN_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b2.jpg
+CARD_USA_RIFLEMAN_B3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b3.jpg
+CARD_USA_RIFLEMAN_B4 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b4.jpg
+CARD_USA_RIFLEMAN_B5 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_b5.jpg
+CARD_USA_RIFLEMAN_C1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c1.jpg
+CARD_USA_RIFLEMAN_C2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c2.jpg
+CARD_USA_RIFLEMAN_C3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c3.jpg
+CARD_USA_RIFLEMAN_C4 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c4.jpg
+CARD_USA_RIFLEMAN_C5 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_rifleman_c5.jpg
+CARD_USA_SCOUT_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_a1.jpg
+CARD_USA_SCOUT_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_a2.jpg
+CARD_USA_SCOUT_A3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_a3.jpg
+CARD_USA_SCOUT_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_b1.jpg
+CARD_USA_SCOUT_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_b2.jpg
+CARD_USA_SCOUT_B3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_b3.jpg
+CARD_USA_SCOUT_C1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_c1.jpg
+CARD_USA_SCOUT_C2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_c2.jpg
+CARD_USA_SCOUT_C3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_scout_c3.jpg
+CARD_USA_SNIPER_1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_sniper_1.jpg
+CARD_USA_SNIPER_2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_sniper_2.jpg
+CARD_USA_SNIPER_3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_sniper_3.jpg
+CARD_USA_SQUADLEADER_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_squadleader_a.jpg
+CARD_USA_SQUADLEADER_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_squadleader_b.jpg
+CARD_USA_SQUADLEADER_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa_squadleader_c.jpg
+CARD_USA_EXP_SHERMAN_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_sherman_a1.jpg
+CARD_USA_EXP_SHERMAN_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_sherman_a2.jpg
+CARD_USA_EXP_SHERMAN_A3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_sherman_a3.jpg
+CARD_USA_EXP_SHERMAN_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_sherman_b1.jpg
+CARD_USA_EXP_SHERMAN_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_sherman_b2.jpg
+CARD_USA_EXP_SHERMAN_B3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_sherman_b3.jpg
+CARD_USA_EXP_SPECIAL_A1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_special_a1.jpg
+CARD_USA_EXP_SPECIAL_A2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_special_a2.jpg
+CARD_USA_EXP_SPECIAL_B1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_special_b1.jpg
+CARD_USA_EXP_SPECIAL_B2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_special_b2.jpg
+CARD_USA_EXP_SPECIAL_C1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_special_c1.jpg
+CARD_USA_EXP_SPECIAL_C2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_special_c2.jpg
+CARD_USA_EXP_STUART_1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_stuart_1.jpg
+CARD_USA_EXP_STUART_2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_stuart_2.jpg
+CARD_USA_EXP_STUART_3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_stuart_3.jpg
+CARD_USA_EXP_TANK_COMMANDER = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/card_usa-exp_tank-commander.jpg
+
+COUNTER_GER_CONTROL = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_control.png
+COUNTER_GER_MORTAR = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_mortar.png
+COUNTER_GER_SCOUTED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_scouted.png
+COUNTER_GER_SPAWN_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_a.png
+COUNTER_GER_SPAWN_AB = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_ab.png
+COUNTER_GER_SPAWN_ABC = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_abc.png
+COUNTER_GER_SPAWN_ALL = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_all.png
+COUNTER_GER_SPAWN_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_b.png
+COUNTER_GER_SPAWN_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_c.png
+COUNTER_GER_SPAWN_MORTAR = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_mortar.png
+COUNTER_GER_SPAWN_SNIPER = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_sniper.png
+COUNTER_GER_SPAWN_SNIPERMORTAR = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger_spawn_snipermortar.png
+COUNTER_GER_EXP_SPAWN_T = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_ger-exp_spawn_tank.png
+COUNTER_INITIATIVE_GER = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_initiative_ger.png
+COUNTER_INITIATIVE_USA = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_initiative_usa.png
+COUNTER_RADIO = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_radio.jpg
+COUNTER_USA_CONTROL = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_control.png
+COUNTER_USA_MORTAR = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_mortar.png
+COUNTER_USA_SCOUTED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_scouted.png
+COUNTER_USA_SPAWN_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_a.png
+COUNTER_USA_SPAWN_ALL = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_all.png
+COUNTER_USA_SPAWN_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_b.png
+COUNTER_USA_SPAWN_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_c.png
+COUNTER_USA_SPAWN_SNIPER = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_sniper.png
+COUNTER_USA_SPAWN_SNIPERMORTAR = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa_spawn_snipermortar.png
+COUNTER_USA_EXP_SPAWN_T = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_usa-exp_spawn_tank.png
+COUNTER_VP_1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_vp_1.png
+COUNTER_VP_2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_vp_2.png
+COUNTER_VP_3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/counter_vp_3.png
+
+TILE_00_BACK = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_back.jpg
+TILE_01A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_1a.jpg
+TILE_01B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_1b.jpg
+TILE_02A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_2a.jpg
+TILE_02B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_2b.jpg
+TILE_03A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_3a.jpg
+TILE_03B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_3b.jpg
+TILE_04A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_4a.jpg
+TILE_04B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_4b.jpg
+TILE_05A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_5a.jpg
+TILE_05B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_5b.jpg
+TILE_06A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_6a.jpg
+TILE_06B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_6b.jpg
+TILE_07A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_7a.jpg
+TILE_07B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_7b.jpg
+TILE_08A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_8a.jpg
+TILE_08B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_8b.jpg
+TILE_09A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_9a.jpg
+TILE_09B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_9b.jpg
+TILE_10A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_10a.jpg
+TILE_10B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_10b.jpg
+TILE_11A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_11a.jpg
+TILE_11B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_11b.jpg
+TILE_12A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_12a.jpg
+TILE_12B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_12b.jpg
+TILE_13A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13a.jpg
+TILE_13A_ROT1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13a_rot1.jpg
+TILE_13A_ROT2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13a_rot2.jpg
+TILE_13A_ROT3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13a_rot3.jpg
+TILE_13B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_13b.jpg
+TILE_14A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14a.jpg
+TILE_14A_ROT1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14a_rot1.jpg
+TILE_14A_ROT2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14a_rot2.jpg
+TILE_14A_ROT3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14a_rot3.jpg
+TILE_14B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_14b.jpg
+TILE_15A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15a.jpg
+TILE_15A_ROT1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15a_rot1.jpg
+TILE_15A_ROT2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15a_rot2.jpg
+TILE_15A_ROT3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15a_rot3.jpg
+TILE_15B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_15b.jpg
+TILE_16A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_16a.jpg
+TILE_16B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_16b.jpg
+TILE_17A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17a.jpg
+TILE_17A_ROT1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17a_rot1.jpg
+TILE_17A_ROT2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17a_rot2.jpg
+TILE_17A_ROT3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17a_rot3.jpg
+TILE_17B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_17b.jpg
+TILE_18A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18a.jpg
+TILE_18A_ROT1 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18a_rot1.jpg
+TILE_18A_ROT2 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18a_rot2.jpg
+TILE_18A_ROT3 = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18a_rot3.jpg
+TILE_18B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/tile_18b.jpg
+
+
+TOKEN_GER_GUNNERS_A_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_a_suppressed.png
+TOKEN_GER_GUNNERS_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_a.png
+TOKEN_GER_GUNNERS_B_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_b_suppressed.png
+TOKEN_GER_GUNNERS_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_b.png
+TOKEN_GER_GUNNERS_C_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_c_suppressed.png
+TOKEN_GER_GUNNERS_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_gunners_c.png
+TOKEN_GER_MORTAR_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_mortar_suppressed.png
+TOKEN_GER_MORTAR = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_mortar.png
+TOKEN_GER_RIFLEMEN_A_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_a_suppressed.png
+TOKEN_GER_RIFLEMEN_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_a.png
+TOKEN_GER_RIFLEMEN_B_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_b_suppressed.png
+TOKEN_GER_RIFLEMEN_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_b.png
+TOKEN_GER_RIFLEMEN_C_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_c_suppressed.png
+TOKEN_GER_RIFLEMEN_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_riflemen_c.png
+TOKEN_GER_SCOUTS_A_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_a_suppressed.png
+TOKEN_GER_SCOUTS_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_a.png
+TOKEN_GER_SCOUTS_B_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_b_suppressed.png
+TOKEN_GER_SCOUTS_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_b.png
+TOKEN_GER_SCOUTS_C_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_c_suppressed.png
+TOKEN_GER_SCOUTS_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_scouts_c.png
+TOKEN_GER_SNIPERS_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_snipers_suppressed.png
+TOKEN_GER_SNIPERS = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger_snipers.png
+TOKEN_GER_EXP_PANTHER = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger-exp_panther.png
+TOKEN_GER_EXP_PANZER_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger-exp_panzer_a.png
+TOKEN_GER_EXP_PANZER_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_ger-exp_panzer_b.png
+
+TOKEN_USA_GUNNERS_A_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_a_suppressed.png
+TOKEN_USA_GUNNERS_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_a.png
+TOKEN_USA_GUNNERS_B_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_b_suppressed.png
+TOKEN_USA_GUNNERS_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_b.png
+TOKEN_USA_GUNNERS_C_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_c_suppressed.png
+TOKEN_USA_GUNNERS_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_gunners_c.png
+TOKEN_USA_MORTAR_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_mortar_suppressed.png
+TOKEN_USA_MORTAR = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_mortar.png
+TOKEN_USA_RIFLEMEN_A_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_a_suppressed.png
+TOKEN_USA_RIFLEMEN_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_a.png
+TOKEN_USA_RIFLEMEN_B_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_b_suppressed.png
+TOKEN_USA_RIFLEMEN_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_b.png
+TOKEN_USA_RIFLEMEN_C_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_c_suppressed.png
+TOKEN_USA_RIFLEMEN_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_riflemen_c.png
+TOKEN_USA_SCOUTS_A_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_a_suppressed.png
+TOKEN_USA_SCOUTS_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_a.png
+TOKEN_USA_SCOUTS_B_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_b_suppressed.png
+TOKEN_USA_SCOUTS_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_b.png
+TOKEN_USA_SCOUTS_C_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_c_suppressed.png
+TOKEN_USA_SCOUTS_C = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_scouts_c.png
+TOKEN_USA_SNIPERS_SUPPRESSED = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_sniper_suppressed.png
+TOKEN_USA_SNIPERS = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa_snipers.png
+TOKEN_USA_EXP_SHERMAN_A = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa-exp_sherman_a.png
+TOKEN_USA_EXP_SHERMAN_B = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa-exp_sherman_b.png
+TOKEN_USA_EXP_STUART = https://media.githubusercontent.com/media/Northburns/PlayingCardsAssets/main/Undaunted/token_usa-exp_stuart.png
 ```
